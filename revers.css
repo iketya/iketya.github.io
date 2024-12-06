@@ -41,7 +41,7 @@ body{
 div{
     display: flex;
     align-items: center; 
-    font-color:white;
+    
 }
 .fifi{
     display: flex;
@@ -59,6 +59,7 @@ div{
     flex-direction:row;
     border: none; 
     display: block;
+    font-color:white;
     
 }
 
