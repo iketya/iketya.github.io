@@ -44,28 +44,35 @@ div{
 }
 .fifi{
     display: flex;
+    flex-direction:row;
     background-color: blue;
      padding: 10px;
     border-radius: 12px;
+    justify-content:space-between;
 }
 #fi{
     width:100%;height:auto;
     border:2px white;
     display: flex;
+    flex-direction:row;
+    
 }
 #fu{
     width:100%;height:auto;
     border:2px white;
     display: flex;
+    flex-direction:row;
 }
 #fy{
     width:100%;height:auto;
     border:2px white;
     display: flex;
+    flex-direction:row;
 }
 #ft{
     width:100%;height:auto;
     border:2px white;
     display: flex;
+    flex-direction:row;
 }
     
