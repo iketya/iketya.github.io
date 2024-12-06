@@ -42,7 +42,7 @@ div{
     display: flex;
     align-items: center; 
 }
-#fifi{
+.fifi{
     display: flex;
     background-color: blue;
      padding: 10px;
