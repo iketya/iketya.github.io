@@ -41,6 +41,7 @@ body{
 div{
     display: flex;
     align-items: center; 
+    font-color:white;
 }
 .fifi{
     display: flex;
