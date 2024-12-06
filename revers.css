@@ -51,31 +51,17 @@ div{
     border-radius: 12px;
     justify-content:space-between;
 }
-#fi{
-    width:100%;height:auto;
+#fi, #fu, #fy, #ft{
+    width:100%;
+    height:auto;
     border:2px white;
     display: flex;
     flex-direction:row;
+    border: none; 
+    display: block;
     
 }
-#fu{
-    width:100%;height:auto;
-    border:2px white;
-    display: flex;
-    flex-direction:row;
-}
-#fy{
-    width:100%;height:auto;
-    border:2px white;
-    display: flex;
-    flex-direction:row;
-}
-#ft{
-    width:100%;height:auto;
-    border:2px white;
-    display: flex;
-    flex-direction:row;
-}
+
 @media (max-width: 768px) {
     .fifi {
         flex-direction: column;
@@ -83,6 +69,9 @@ div{
     }
     #pika {
         width: 100%; 
+    }
+    #hi {
+        width: 90%;
     }
 }
     
