@@ -21,9 +21,9 @@ body{
 
 }
 #pw{
-    text-size:50px;
-    background-color:green;
-    text-color:red;
+    text-size: 50px;
+    background-color: green;
+    text-color: red;
 }
 #pe{
     position: relative;
