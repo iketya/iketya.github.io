@@ -42,3 +42,10 @@ div{
     display: flex;
     align-items: center; 
 }
+#fifi{
+    display: flex;
+    background-color: blue;
+     padding: 10px;
+    border-radius: 12px;
+}
+    
