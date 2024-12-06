@@ -1,1 +1,0 @@
-# iketya.github.io
