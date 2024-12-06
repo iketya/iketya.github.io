@@ -20,6 +20,10 @@ body{
     background-position: center;
 
 }
+#pw{
+    text-size:50px;
+    background-color:green;
+    text-color:red;
 #pe{
     position: relative;
     transform: rotate(-45deg);
