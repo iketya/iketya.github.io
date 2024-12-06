@@ -21,7 +21,7 @@ body{
 
 }
 #pw{
-    text-size: 50px;
+    font-size: 50px;
     background-color: green;
     color: red;
 }
@@ -74,5 +74,14 @@ div{
     border:2px white;
     display: flex;
     flex-direction:row;
+}
+@media (max-width: 768px) {
+    .fifi {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    #pika {
+        width: 100%; 
+    }
 }
     
